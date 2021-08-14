@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("hello second time");
+System.out.println("hello third time");
 }
 }
 
